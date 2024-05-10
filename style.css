@@ -1,0 +1,14 @@
+.puji4 button{
+    background-color: rgb(24, 24, 176);
+    width: 200px;
+    color: white;
+}
+.pujithar{
+    height: 570px;
+    width: 45%;
+    /* border: 2px solid red; */
+    text-align: center;
+    margin-left: 300px;
+    background-image: linear-gradient(45deg, rgb(227, 216, 10) ,rgba(202, 103, 11, 0.877),rgb(234, 42, 154))
+}
+                                         
